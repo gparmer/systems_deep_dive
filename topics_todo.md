@@ -40,4 +40,15 @@
 
 ## Object Orientation
 
+## Thread-Local Storage (TLS)
+
+- [TLS implementation](https://www.akkadia.org/drepper/tls.pdf)
+- [Fuchsia's implementation](https://fuchsia.dev/fuchsia-src/development/kernel/threads/tls)
+- [Higher-level overview](https://chao-tic.github.io/blog/2018/12/25/tls), and also [here](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage)
+
+## PIC/PIE
+
+- [PLT](https://maskray.me/blog/2021-09-19-all-about-procedure-linkage-table)
+- [GOT](https://maskray.me/blog/2021-08-29-all-about-global-offset-table)
+
 # Topics Already Covered
