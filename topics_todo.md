@@ -46,8 +46,10 @@
 - [Fuchsia's implementation](https://fuchsia.dev/fuchsia-src/development/kernel/threads/tls)
 - [Higher-level overview](https://chao-tic.github.io/blog/2018/12/25/tls), and also [here](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage)
 
-## PIC/PIE
+## Execution Relocation/PIC/PIE
 
+- [relocation](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/)
+- [PIC](https://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/) and [library PIC](https://eli.thegreenplace.net/2011/11/11/position-independent-code-pic-in-shared-libraries-on-x64)
 - [PLT](https://maskray.me/blog/2021-09-19-all-about-procedure-linkage-table)
 - [GOT](https://maskray.me/blog/2021-08-29-all-about-global-offset-table)
 
